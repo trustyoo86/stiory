@@ -1,0 +1,19 @@
+{
+  "name": "@stiory/stiory",
+  "version": "0.0.1",
+  "description": "History state management plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trustyoo86/stiory.git"
+  },
+  "author": "kern.yoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trustyoo86/stiory/issues"
+  },
+  "homepage": "https://github.com/trustyoo86/stiory#readme"
+}

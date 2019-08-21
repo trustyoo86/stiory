@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/trustyoo86/stiory/issues"
   },
-  "homepage": "https://github.com/trustyoo86/stiory#readme"
+  "homepage": "https://github.com/trustyoo86/stiory#readme",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  }
 }
